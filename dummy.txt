@@ -1,1 +1,1 @@
-This is used for SSH file transfer
+This file is used for SSH File Transfer.
